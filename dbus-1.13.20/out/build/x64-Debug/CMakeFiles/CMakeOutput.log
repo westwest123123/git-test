@@ -1,0 +1,375 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.30.30705/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.30.30709 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.30.30709.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/3.21.21080301-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.30.30705/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.30.30709 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.30.30709.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/3.21.21080301-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e269b && [1/2] Building C object CMakeFiles\cmTC_e269b.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_e269b.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d828b && [1/2] Building CXX object CMakeFiles\cmTC_d828b.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_d828b.exe
+
+
+
+Determining if the include file errno.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a51f3 && [1/2] Building C object CMakeFiles\cmTC_a51f3.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_a51f3.exe
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_636a6 && [1/2] Building C object CMakeFiles\cmTC_636a6.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_636a6.exe
+
+
+
+Determining if the include file io.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_beca8 && [1/2] Building C object CMakeFiles\cmTC_beca8.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_beca8.exe
+
+
+
+Determining if the include file locale.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2b8ae && [1/2] Building C object CMakeFiles\cmTC_2b8ae.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_2b8ae.exe
+
+
+
+Determining if the include file memory.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2aa79 && [1/2] Building C object CMakeFiles\cmTC_2aa79.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_2aa79.exe
+
+
+
+Determining if the include file signal.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9298d && [1/2] Building C object CMakeFiles\cmTC_9298d.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_9298d.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d4ea8 && [1/2] Building C object CMakeFiles\cmTC_d4ea8.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_d4ea8.exe
+
+
+
+Determining if the include file stdlib.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_aef1b && [1/2] Building C object CMakeFiles\cmTC_aef1b.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_aef1b.exe
+
+
+
+Determining if the include file stdio.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0236b && [1/2] Building C object CMakeFiles\cmTC_0236b.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_0236b.exe
+
+
+
+Determining if the include file string.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_7fb3c && [1/2] Building C object CMakeFiles\cmTC_7fb3c.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_7fb3c.exe
+
+
+
+Determining if the include file sys/stat.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b91cc && [1/2] Building C object CMakeFiles\cmTC_b91cc.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_b91cc.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_84269 && [1/2] Building C object CMakeFiles\cmTC_84269.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_84269.exe
+
+
+
+Determining if the include file time.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_7207f && [1/2] Building C object CMakeFiles\cmTC_7207f.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_7207f.exe
+
+
+
+Determining if the include file ws2tcpip.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_eccbe && [1/2] Building C object CMakeFiles\cmTC_eccbe.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_eccbe.exe
+
+
+
+Determining if the setlocale exist passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e5864 && [1/2] Building C object CMakeFiles\cmTC_e5864.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_e5864.exe
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <locale.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setlocale
+  return ((int*)(&setlocale))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the localeconv exist passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3be06 && [1/2] Building C object CMakeFiles\cmTC_3be06.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_3be06.exe
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <locale.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef localeconv
+  return ((int*)(&localeconv))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the strtoll exist passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b50f4 && [1/2] Building C object CMakeFiles\cmTC_b50f4.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_b50f4.exe
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtoll
+  return ((int*)(&strtoll))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the strtoull exist passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9b9ce && [1/2] Building C object CMakeFiles\cmTC_9b9ce.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_9b9ce.exe
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strtoull
+  return ((int*)(&strtoull))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the raise exist passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6462c && [1/2] Building C object CMakeFiles\cmTC_6462c.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_6462c.exe
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <signal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef raise
+  return ((int*)(&raise))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the vsnprintf exist passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_da219 && [1/2] Building C object CMakeFiles\cmTC_da219.dir\CheckSymbolExists.c.obj
+[2/2] Linking C executable cmTC_da219.exe
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef vsnprintf
+  return ((int*)(&vsnprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test HAVE_VA_COPY succeeded with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_4d409 && [1/2] Building C object CMakeFiles\cmTC_4d409.dir\src.c.obj
+[2/2] Linking C executable cmTC_4d409.exe
+
+
+Source file was:
+
+#include <stdarg.h>
+#include <stdlib.h>
+static void f (int i, ...) {
+    va_list args1, args2;
+    va_start (args1, i);
+    va_copy (args2, args1);
+    if (va_arg (args2, int) != 42 || va_arg (args1, int) != 42)
+      exit (1);
+    va_end (args1); va_end (args2);
+}
+int main() {
+    f (0, 42);
+    return 0;
+}
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_37f92 && [1/2] Building C object CMakeFiles\cmTC_37f92.dir\CheckIncludeFile.c.obj
+[2/2] Linking C executable cmTC_37f92.exe
+
+
+
+Determining size of short passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0df21 && [1/2] Building C object CMakeFiles\cmTC_0df21.dir\SIZEOF_SHORT.c.obj
+[2/2] Linking C executable cmTC_0df21.exe
+
+
+
+Determining size of int passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_40fd3 && [1/2] Building C object CMakeFiles\cmTC_40fd3.dir\SIZEOF_INT.c.obj
+[2/2] Linking C executable cmTC_40fd3.exe
+
+
+
+Determining size of long passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_be1c9 && [1/2] Building C object CMakeFiles\cmTC_be1c9.dir\SIZEOF_LONG.c.obj
+[2/2] Linking C executable cmTC_be1c9.exe
+
+
+
+Determining size of long long passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c1275 && [1/2] Building C object CMakeFiles\cmTC_c1275.dir\SIZEOF_LONG_LONG.c.obj
+[2/2] Linking C executable cmTC_c1275.exe
+
+
+
+Determining size of __int64 passed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_25feb && [1/2] Building C object CMakeFiles\cmTC_25feb.dir\SIZEOF___INT64.c.obj
+[2/2] Linking C executable cmTC_25feb.exe
+
+
+

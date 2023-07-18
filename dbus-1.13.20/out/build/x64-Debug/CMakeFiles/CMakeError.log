@@ -1,0 +1,1025 @@
+Determining if the include file alloca.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e39f2 && [1/2] Building C object CMakeFiles\cmTC_e39f2.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_e39f2.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_e39f2.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_e39f2.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “alloca.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file byteswap.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_19e2c && [1/2] Building C object CMakeFiles\cmTC_19e2c.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_19e2c.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_19e2c.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_19e2c.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “byteswap.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file crt/externs.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d68e0 && [1/2] Building C object CMakeFiles\cmTC_d68e0.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_d68e0.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_d68e0.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_d68e0.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “crt/externs.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file dirent.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_37f4c && [1/2] Building C object CMakeFiles\cmTC_37f4c.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_37f4c.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_37f4c.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_37f4c.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “dirent.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file dlfcn.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d41f7 && [1/2] Building C object CMakeFiles\cmTC_d41f7.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_d41f7.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_d41f7.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_d41f7.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “dlfcn.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file execinfo.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a8690 && [1/2] Building C object CMakeFiles\cmTC_a8690.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_a8690.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a8690.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_a8690.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “execinfo.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file expat.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_31aa0 && [1/2] Building C object CMakeFiles\cmTC_31aa0.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_31aa0.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_31aa0.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_31aa0.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “expat.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file grp.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_6c052 && [1/2] Building C object CMakeFiles\cmTC_6c052.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_6c052.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_6c052.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_6c052.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “grp.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file strings.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_eea17 && [1/2] Building C object CMakeFiles\cmTC_eea17.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_eea17.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_eea17.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_eea17.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “strings.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file syslog.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_803db && [1/2] Building C object CMakeFiles\cmTC_803db.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_803db.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_803db.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_803db.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “syslog.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if files stdint.h;sys/types.h;sys/event.h exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0ce61 && [1/2] Building C object CMakeFiles\cmTC_0ce61.dir\HAVE_SYS_EVENT_H.c.obj
+FAILED: CMakeFiles/cmTC_0ce61.dir/HAVE_SYS_EVENT_H.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_0ce61.dir\HAVE_SYS_EVENT_H.c.obj /FdCMakeFiles\cmTC_0ce61.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_EVENT_H.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CheckIncludeFiles\HAVE_SYS_EVENT_H.c(4): fatal error C1083: 无法打开包括文件: “sys/event.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <stdint.h>
+#include <sys/types.h>
+#include <sys/event.h>
+
+
+int main(void){return 0;}
+
+Determining if the include file sys/inotify.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1bbb0 && [1/2] Building C object CMakeFiles\cmTC_1bbb0.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_1bbb0.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_1bbb0.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_1bbb0.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “sys/inotify.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/random.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_af241 && [1/2] Building C object CMakeFiles\cmTC_af241.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_af241.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_af241.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_af241.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “sys/random.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/resource.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_50ae9 && [1/2] Building C object CMakeFiles\cmTC_50ae9.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_50ae9.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_50ae9.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_50ae9.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “sys/resource.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/uio.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_431dd && [1/2] Building C object CMakeFiles\cmTC_431dd.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_431dd.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_431dd.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_431dd.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “sys/uio.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/prctl.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_71731 && [1/2] Building C object CMakeFiles\cmTC_71731.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_71731.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_71731.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_71731.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “sys/prctl.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/syslimits.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_fcf23 && [1/2] Building C object CMakeFiles\cmTC_fcf23.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_fcf23.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_fcf23.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_fcf23.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “sys/syslimits.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/time.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_aa993 && [1/2] Building C object CMakeFiles\cmTC_aa993.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_aa993.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_aa993.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_aa993.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “sys/time.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/wait.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ffffe && [1/2] Building C object CMakeFiles\cmTC_ffffe.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_ffffe.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_ffffe.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_ffffe.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “sys/wait.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e8ad0 && [1/2] Building C object CMakeFiles\cmTC_e8ad0.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_e8ad0.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_e8ad0.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_e8ad0.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file sys/inotify.h exists failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_abb33 && [1/2] Building C object CMakeFiles\cmTC_abb33.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_abb33.dir/CheckIncludeFile.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_abb33.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_abb33.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: 无法打开包括文件: “sys/inotify.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the backtrace exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_23975 && [1/2] Building C object CMakeFiles\cmTC_23975.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_23975.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_23975.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_23975.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “execinfo.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <execinfo.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef backtrace
+  return ((int*)(&backtrace))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getgrouplist exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_78203 && [1/2] Building C object CMakeFiles\cmTC_78203.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_78203.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_78203.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_78203.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “grp.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <grp.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getgrouplist
+  return ((int*)(&getgrouplist))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getpeerucred exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_8e7fc && [1/2] Building C object CMakeFiles\cmTC_8e7fc.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_8e7fc.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_8e7fc.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_8e7fc.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “ucred.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <ucred.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getpeerucred
+  return ((int*)(&getpeerucred))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the nanosleep exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_75491 && [1/2] Building C object CMakeFiles\cmTC_75491.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_75491.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_75491.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_75491.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: “nanosleep”: 未声明的标识符
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <time.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef nanosleep
+  return ((int*)(&nanosleep))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getpwnam_r exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5ca21 && [1/2] Building C object CMakeFiles\cmTC_5ca21.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_5ca21.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_5ca21.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_5ca21.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(3): fatal error C1083: 无法打开包括文件: “pwd.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <errno.h>
+#include <pwd.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getpwnam_r
+  return ((int*)(&getpwnam_r))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the setenv exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a04b5 && [1/2] Building C object CMakeFiles\cmTC_a04b5.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_a04b5.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a04b5.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_a04b5.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: “setenv”: 未声明的标识符
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setenv
+  return ((int*)(&setenv))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the unsetenv exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_fbe8e && [1/2] Building C object CMakeFiles\cmTC_fbe8e.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_fbe8e.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_fbe8e.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_fbe8e.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: “unsetenv”: 未声明的标识符
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef unsetenv
+  return ((int*)(&unsetenv))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the clearenv exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0d16f && [1/2] Building C object CMakeFiles\cmTC_0d16f.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_0d16f.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_0d16f.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_0d16f.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: “clearenv”: 未声明的标识符
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef clearenv
+  return ((int*)(&clearenv))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the writev exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_99b93 && [1/2] Building C object CMakeFiles\cmTC_99b93.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_99b93.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_99b93.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_99b93.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/uio.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/uio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef writev
+  return ((int*)(&writev))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the setrlimit exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_7f2d7 && [1/2] Building C object CMakeFiles\cmTC_7f2d7.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_7f2d7.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_7f2d7.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_7f2d7.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/resource.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/resource.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef setrlimit
+  return ((int*)(&setrlimit))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the socketpair exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0902c && [1/2] Building C object CMakeFiles\cmTC_0902c.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_0902c.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_0902c.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_0902c.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/socket.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef socketpair
+  return ((int*)(&socketpair))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the poll exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d84fe && [1/2] Building C object CMakeFiles\cmTC_d84fe.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_d84fe.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_d84fe.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_d84fe.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “poll.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <poll.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef poll
+  return ((int*)(&poll))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the pipe2 exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_88f94 && [1/2] Building C object CMakeFiles\cmTC_88f94.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_88f94.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_88f94.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_88f94.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(3): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <fcntl.h>
+#include <unistd.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pipe2
+  return ((int*)(&pipe2))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the accept4 exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_24178 && [1/2] Building C object CMakeFiles\cmTC_24178.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_24178.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_24178.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_24178.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/socket.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef accept4
+  return ((int*)(&accept4))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the inotify_init1 exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a9abd && [1/2] Building C object CMakeFiles\cmTC_a9abd.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_a9abd.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a9abd.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_a9abd.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/inotify.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/inotify.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef inotify_init1
+  return ((int*)(&inotify_init1))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the SCM_RIGHTS exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bb69f && [1/2] Building C object CMakeFiles\cmTC_bb69f.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_bb69f.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_bb69f.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_bb69f.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(3): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <sys/un.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef SCM_RIGHTS
+  return ((int*)(&SCM_RIGHTS))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the prctl exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_885df && [1/2] Building C object CMakeFiles\cmTC_885df.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_885df.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_885df.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_885df.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/prctl.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/prctl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef prctl
+  return ((int*)(&prctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getrandom exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_44ea7 && [1/2] Building C object CMakeFiles\cmTC_44ea7.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_44ea7.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_44ea7.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_44ea7.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/random.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/random.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getrandom
+  return ((int*)(&getrandom))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the getrlimit exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_77c2f && [1/2] Building C object CMakeFiles\cmTC_77c2f.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_77c2f.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_77c2f.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_77c2f.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/resource.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/resource.h>
+#include <sys/time.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getrlimit
+  return ((int*)(&getrlimit))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the prlimit exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_89ee5 && [1/2] Building C object CMakeFiles\cmTC_89ee5.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_89ee5.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_89ee5.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_89ee5.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/resource.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/resource.h>
+#include <sys/time.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef prlimit
+  return ((int*)(&prlimit))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the vasprintf exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_9bc4e && [1/2] Building C object CMakeFiles\cmTC_9bc4e.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_9bc4e.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_9bc4e.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_9bc4e.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(8): error C2065: “vasprintf”: 未声明的标识符
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef vasprintf
+  return ((int*)(&vasprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the MSG_NOSIGNAL exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c30d8 && [1/2] Building C object CMakeFiles\cmTC_c30d8.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_c30d8.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_c30d8.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_c30d8.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/socket.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef MSG_NOSIGNAL
+  return ((int*)(&MSG_NOSIGNAL))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the environ exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1851c && [1/2] Building C object CMakeFiles\cmTC_1851c.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_1851c.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_1851c.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_1851c.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “unistd.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <unistd.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef environ
+  return ((int*)(&environ))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the LOG_PERROR exist failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_7a655 && [1/2] Building C object CMakeFiles\cmTC_7a655.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_7a655.dir/CheckSymbolExists.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_7a655.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_7a655.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\CheckSymbolExists.c(2): fatal error C1083: 无法打开包括文件: “syslog.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+File D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <syslog.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef LOG_PERROR
+  return ((int*)(&LOG_PERROR))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C++ SOURCE FILE Test HAVE_CMSGCRED failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2565d && [1/2] Building CXX object CMakeFiles\cmTC_2565d.dir\src.cxx.obj
+FAILED: CMakeFiles/cmTC_2565d.dir/src.cxx.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo /TP -DHAVE_CMSGCRED -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_2565d.dir\src.cxx.obj /FdCMakeFiles\cmTC_2565d.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.cxx"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.cxx(3): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/socket.h>
+
+int main()
+{
+   cmsgcred* tmp;
+   tmp->cmcred_pid;
+  return 0;
+}
+
+Performing C SOURCE FILE Test DBUS_HAVE_LINUX_EPOLL failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2f256 && [1/2] Building C object CMakeFiles\cmTC_2f256.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_2f256.dir/src.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -DDBUS_HAVE_LINUX_EPOLL -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_2f256.dir\src.c.obj /FdCMakeFiles\cmTC_2f256.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c(3): fatal error C1189: #error:  This is not Linux
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#ifndef __linux__
+#error This is not Linux
+#endif
+#include <sys/epoll.h>
+int main() {
+epoll_create1 (EPOLL_CLOEXEC);
+}
+Performing C SOURCE FILE Test HAVE___VA_COPY failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_262af && [1/2] Building C object CMakeFiles\cmTC_262af.dir\src.c.obj
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c(7): warning C4013: “__va_copy”未定义；假设外部返回 int
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c(7) : warning C4700: 使用了未初始化的局部变量“args2”
+[2/2] Linking C executable cmTC_262af.exe
+FAILED: cmTC_262af.exe 
+cmd.exe /C "cd . && "D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_262af.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x64\mt.exe" --manifests  -- "D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\link.exe" /nologo CMakeFiles\cmTC_262af.dir\src.c.obj  /out:cmTC_262af.exe /implib:cmTC_262af.lib /pdb:cmTC_262af.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_262af.dir\src.c.obj /out:cmTC_262af.exe /implib:cmTC_262af.lib /pdb:cmTC_262af.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_262af.dir/intermediate.manifest CMakeFiles\cmTC_262af.dir/manifest.res" failed (exit code 1120) with the following output:
+src.c.obj : error LNK2019: 无法解析的外部符号 __va_copy，函数 f 中引用了该符号
+cmTC_262af.exe : fatal error LNK1120: 1 个无法解析的外部命令
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#include <stdarg.h>
+#include <stdlib.h>
+static void f (int i, ...) {
+    va_list args1, args2;
+    va_start (args1, i);
+    __va_copy (args2, args1);
+    if (va_arg (args2, int) != 42 || va_arg (args1, int) != 42)
+      exit (1);
+    va_end (args1); va_end (args2);
+}
+int main() {
+    f (0, 42);
+    return 0;
+}
+
+Performing C SOURCE FILE Test DBUS_USE_SYNC failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3faae && [1/2] Building C object CMakeFiles\cmTC_3faae.dir\src.c.obj
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c(4): warning C4013: “__sync_sub_and_fetch”未定义；假设外部返回 int
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c(5): warning C4013: “exit”未定义；假设外部返回 int
+[2/2] Linking C executable cmTC_3faae.exe
+FAILED: cmTC_3faae.exe 
+cmd.exe /C "cd . && "D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3faae.dir --rc="D:\Windows Kits\10\bin\10.0.19041.0\x64\rc.exe" --mt="D:\Windows Kits\10\bin\10.0.19041.0\x64\mt.exe" --manifests  -- "D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\link.exe" /nologo CMakeFiles\cmTC_3faae.dir\src.c.obj  /out:cmTC_3faae.exe /implib:cmTC_3faae.lib /pdb:cmTC_3faae.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_3faae.dir\src.c.obj /out:cmTC_3faae.exe /implib:cmTC_3faae.lib /pdb:cmTC_3faae.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_3faae.dir/intermediate.manifest CMakeFiles\cmTC_3faae.dir/manifest.res" failed (exit code 1120) with the following output:
+src.c.obj : error LNK2019: 无法解析的外部符号 __sync_sub_and_fetch，函数 main 中引用了该符号
+cmTC_3faae.exe : fatal error LNK1120: 1 个无法解析的外部命令
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+int main() {
+    int a = 4;
+    int b = __sync_sub_and_fetch(&a, 4);
+    exit(b);
+}
+
+Performing C SOURCE FILE Test HAVE_DIRFD failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_7af83 && [1/2] Building C object CMakeFiles\cmTC_7af83.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_7af83.dir/src.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -DHAVE_DIRFD -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_7af83.dir\src.c.obj /FdCMakeFiles\cmTC_7af83.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c(3): fatal error C1083: 无法打开包括文件: “dirent.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#include <sys/types.h>
+#include <dirent.h>
+int main(
+    DIR *dirp;
+    dirp = opendir(".");
+    dirfd(dirp);
+    closedir(dirp);
+)
+
+Performing C SOURCE FILE Test HAVE_DDFD failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_750ea && [1/2] Building C object CMakeFiles\cmTC_750ea.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_750ea.dir/src.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -DHAVE_DDFD -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_750ea.dir\src.c.obj /FdCMakeFiles\cmTC_750ea.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CMakeTmp\src.c(3): fatal error C1083: 无法打开包括文件: “dirent.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+    #include <sys/types.h>
+    #include <dirent.h>
+    int main()
+    {
+        DIR *dirp;
+        int fd;
+        dirp = opendir(".");
+        fd = dirp->dd_fd;
+        closedir(dirp);
+    }
+    
+Determining size of socklen_t failed with the following output:
+Change Dir: D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f62f8 && [1/2] Building C object CMakeFiles\cmTC_f62f8.dir\HAVE_SOCKLEN_T.c.obj
+FAILED: CMakeFiles/cmTC_f62f8.dir/HAVE_SOCKLEN_T.c.obj 
+"D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\Hostx64\x64\cl.exe"  /nologo -D_GNU_SOURCE  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_f62f8.dir\HAVE_SOCKLEN_T.c.obj /FdCMakeFiles\cmTC_f62f8.dir\ /FS -c "D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CheckTypeSize\HAVE_SOCKLEN_T.c"
+D:\inspur working\sourceinsight projects\coding\dbus-1.13.20\out\build\x64-Debug\CMakeFiles\CheckTypeSize\HAVE_SOCKLEN_T.c(4): fatal error C1083: 无法打开包括文件: “sys/socket.h”: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+D:/inspur working/sourceinsight projects/coding/dbus-1.13.20/out/build/x64-Debug/CMakeFiles/CheckTypeSize/HAVE_SOCKLEN_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+#include "sys/socket.h"
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(socklen_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
